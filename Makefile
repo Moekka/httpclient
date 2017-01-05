@@ -1,5 +1,6 @@
 
 EXECS=HttpClient
+CC=gcc
 CFLAGS += -Os
 LDFLAGS += -L./lib
 
